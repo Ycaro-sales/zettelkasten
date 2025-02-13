@@ -4,17 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "fecb00e9e97969ac",
+        "id": "d05e57c63fe5924a",
         "type": "tabs",
         "children": [
           {
-            "id": "6f93fce646e957e4",
+            "id": "215b90f67e2aff9d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "diff-view",
+              "state": {
+                "file": "Atividade PDI 📅 2025-02-12.md",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (Atividade PDI 📅 2025-02-12)"
             }
           }
         ]
@@ -36,7 +39,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -73,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d7a81aaff90808a0",
@@ -135,58 +140,91 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/Assets/Pasted image 20240813104126.png"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20240813104126"
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "43b336043c8b773a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "6f93fce646e957e4",
+  "active": "215b90f67e2aff9d",
   "lastOpenFiles": [
-    "zettelkasten/Assets/Pasted image 20240813121645.png",
-    "zettelkasten/Assets/Pasted image 20240813114850.png",
-    "zettelkasten/Assets",
-    "zettelkasten/Assets/Pasted image 20240813112143.png",
-    "zettelkasten/Assets/Pasted image 20240813110249.png",
-    "zettelkasten/Assets/Pasted image 20240813105142.png",
-    "zettelkasten/Assets/Pasted image 20240813104126.png",
-    "zettelkasten/8 - Code Snippets/Linux/Base.md",
-    "zettelkasten/2 - Material de referencia/Base 1 1 1 1.md",
-    "zettelkasten/3 - Tags/Tutoriais.md",
-    "zettelkasten/3 - Tags/Padrões.md",
-    "zettelkasten/3 - Tags/Definições.md",
-    "zettelkasten/4 - Indices/Base 1 1 1.md",
-    "zettelkasten/5 - Template/Base 1 1.md",
-    "zettelkasten/6 - Anotacoes/Base 1.md",
-    "zettelkasten/7 - Perguntas/Base.md",
-    "zettelkasten/1 - Rascunhos/Ruby Anotacoes.md",
-    "zettelkasten/8 - Code Snippets/Linux",
-    "zettelkasten/8 - Code Snippets/Untitled.md",
-    "zettelkasten/Assets/Pasted image 20241027135424.png",
-    "zettelkasten/Assets/Pasted image 20241027134247.png",
-    "zettelkasten/1 - Rascunhos/Texto apresentacao lua.md",
-    "zettelkasten/1 - Rascunhos/1723496300-RLUY.md",
-    "zettelkasten/Assets/Pasted image 20240813124545.png",
-    "zettelkasten/Assets/Pasted image 20240813122500.png",
-    "zettelkasten/Assets/Pasted image 20240813120152.png",
-    "zettelkasten/1 - Rascunhos/2024-08-12_apresentacao-lua.md"
+    "Atividades/2024.2/Redes de Computador/Lista de Exercícios Padronização Modelo OSI.md",
+    "6 - Anotacoes/teste.md",
+    "Atividades/2024.2/Redes de Computador",
+    "Atividades/Untitled Kanban.md",
+    "Atividade PDI 📅 2025-02-12.md",
+    "gradiente.md",
+    "6 - Anotacoes/Geometria Analitica.md",
+    "6 - Anotacoes/Imagem do WhatsApp de 2025-02-12 à(s) 10.36.41_b01ebe56.jpg",
+    "6 - Anotacoes/Imagem do WhatsApp de 2025-02-12 à(s) 09.39.20_0ba2d68d.jpg",
+    "6 - Anotacoes/Imagem do WhatsApp de 2025-02-12 à(s) 09.35.39_b3fb2a07.jpg",
+    "6 - Anotacoes/Banco de dados.md",
+    "2 - Material de referencia/Probabilidade e Estatística/Using R For Introductory Statistics (Second Edition) (John Verzani) (Z-Library).pdf",
+    "2 - Material de referencia/Using R For Introductory Statistics (Second Edition) (John Verzani) (Z-Library).pdf",
+    "6 - Anotacoes/Imagem do WhatsApp de 2025-02-10 à(s) 10.48.21_3230aa48.jpg",
+    "6 - Anotacoes/Imagem do WhatsApp de 2025-02-10 à(s) 10.41.00_fa6d8b00.jpg",
+    "6 - Anotacoes/Pasted image 20250210102836.png",
+    "1 - Rascunhos/Matérias/Geometria Analítica/Prova por indução.md",
+    "1 - Rascunhos/Matérias/Aprendizado de máquina/Geral.md",
+    "1 - Rascunhos/Matérias/Geometria Analítica",
+    "2 - Material de referencia/Aprendizado de máquina/Base.md",
+    "1 - Rascunhos/Matérias/Aprendizado de máquina/Sobre a Matéria.md",
+    "Novo(a) Documento de Texto.txt",
+    "Untitled.md",
+    "1 - Rascunhos/Matérias/Processamento de Imagens/Aula 30-01.md",
+    "2 - Material de referencia/Processamento de Imagens/Machine Learning An Artificial Intelligence Approach ( etc.) (Z-Library).pdf",
+    "2 - Material de referencia/Geometria Analitica/2_[Elon Lages Lima]_Geometria Analitica e Algebra Linear.pdf",
+    "2 - Material de referencia/2_[Elon Lages Lima]_Geometria Analitica e Algebra Linear.pdf",
+    "2 - Material de referencia/Machine Learning An Artificial Intelligence Approach ( etc.) (Z-Library).pdf",
+    "Machine Learning An Artificial Intelligence Approach ( etc.) (Z-Library).pdf",
+    "6 - Anotacoes/Pasted image 20250203103941.png",
+    "6 - Anotacoes/Pasted image 20250203103801.png",
+    "6 - Anotacoes/Pasted image 20250203103652.png",
+    "8 - Code Snippets/Unity/Programando movimento simples para jogos 2d top-down na unity.md",
+    "8 - Code Snippets/Golang/Criando middlewares e envolvendo-os em Handlers.md",
+    "2 - Material de referencia/Aprendizado de máquina/Base 1.md",
+    "TODO.md",
+    "1 - Rascunhos/Ruby Anotacoes.md",
+    "Atividades/2025/Fevereiro.md",
+    "1 - Rascunhos/Texto apresentacao lua.md",
+    "1 - Rascunhos/Ideias para Rise of the shadow Mancer.md",
+    "1 - Rascunhos/1723497216-NXQU.md",
+    "1 - Rascunhos/1723497180-XHZT.md",
+    "1 - Rascunhos/1723496828-QOOE.md",
+    "1 - Rascunhos/1723496394-KOHR.md",
+    "5 - Template/Template diário.md",
+    "Untitled.canvas",
+    "zettelkasten/Assets/Pasted image 20240813121645.png"
   ]
 }

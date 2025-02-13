@@ -1,0 +1,7 @@
+- Pensar numa maneira de organizar as anotações das matérias de maneira concisa e cronológica
+	- estrutura de pastas (semestre/ab/matéria)
+- Pensar numa maneira de controlar as atividades de cada matéria e receber notificações baseada na data de entrega
+	- estrutura de pastas (semestre/ab/matéria)
+- Criar Kanban para as tarefas acima
+	- Kanban filtrado por matérias e separado em pastas por ABs
+- Kanban para organização pessoal
