@@ -1,0 +1,1 @@
+- Fazer um integração do kanban do obsidian com a api do google agendas através do javascript

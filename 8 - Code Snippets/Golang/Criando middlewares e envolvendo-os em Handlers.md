@@ -1,7 +1,5 @@
 2024-07-27 10:56
-Tags: [[Backend Development]] 
-Linguagem: [[Golang]]
-Bibliotecas: [[Golang Standard Library]]
+Tags: [[Backend Development]]  [[Go]]
 
 # Criando middlewares e envolvendo-os em Handlers
 

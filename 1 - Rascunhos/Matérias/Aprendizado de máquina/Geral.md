@@ -10,3 +10,5 @@
 ### Aprendizado Não Supervisionado
 - Tem o foco em criar agrupamentos numa base de dados para entender os conjuntos de dados relacionados entre si.
 ### Aprendizado por Reforço
+
+## Árvore de decisão

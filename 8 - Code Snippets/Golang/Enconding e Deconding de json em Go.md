@@ -1,8 +1,5 @@
 2024-07-27 11:16
-Tags: [[Backend Development]]
-Linguagem: [[Golang]]
-Bibliotecas: [[Golang Standard Library]]
-
+Tags: [[Go]]
 # Encoding e Decoding de json em Go
 
 ```go

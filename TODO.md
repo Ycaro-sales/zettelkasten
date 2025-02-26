@@ -4,4 +4,6 @@
 	- estrutura de pastas (semestre/ab/matéria)
 - Criar Kanban para as tarefas acima
 	- Kanban filtrado por matérias e separado em pastas por ABs
-- Kanban para organização pessoal
+- Kanban para metas pessoais
+- Assistir os videos linkados nos materiais de referência e fazer anotações
+- Preencher o kanban de metas

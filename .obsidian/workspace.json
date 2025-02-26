@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d05e57c63fe5924a",
+        "id": "9c3a4214cb49aaaa",
         "type": "tabs",
         "children": [
           {
-            "id": "215b90f67e2aff9d",
+            "id": "fc5d433023d7a9ee",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Atividade PDI 📅 2025-02-12.md",
-                "staged": false
+                "file": "TODO.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (Atividade PDI 📅 2025-02-12)"
+              "icon": "lucide-file",
+              "title": "TODO"
             }
           }
         ]
@@ -77,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d7a81aaff90808a0",
@@ -140,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "6 - Anotacoes/Banco de dados.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Banco de dados"
             }
           },
           {
@@ -174,57 +175,58 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "215b90f67e2aff9d",
+  "active": "fc5d433023d7a9ee",
   "lastOpenFiles": [
-    "Atividades/2024.2/Redes de Computador/Lista de Exercícios Padronização Modelo OSI.md",
-    "6 - Anotacoes/teste.md",
-    "Atividades/2024.2/Redes de Computador",
-    "Atividades/Untitled Kanban.md",
-    "Atividade PDI 📅 2025-02-12.md",
-    "gradiente.md",
-    "6 - Anotacoes/Geometria Analitica.md",
-    "6 - Anotacoes/Imagem do WhatsApp de 2025-02-12 à(s) 10.36.41_b01ebe56.jpg",
-    "6 - Anotacoes/Imagem do WhatsApp de 2025-02-12 à(s) 09.39.20_0ba2d68d.jpg",
-    "6 - Anotacoes/Imagem do WhatsApp de 2025-02-12 à(s) 09.35.39_b3fb2a07.jpg",
-    "6 - Anotacoes/Banco de dados.md",
-    "2 - Material de referencia/Probabilidade e Estatística/Using R For Introductory Statistics (Second Edition) (John Verzani) (Z-Library).pdf",
-    "2 - Material de referencia/Using R For Introductory Statistics (Second Edition) (John Verzani) (Z-Library).pdf",
-    "6 - Anotacoes/Imagem do WhatsApp de 2025-02-10 à(s) 10.48.21_3230aa48.jpg",
-    "6 - Anotacoes/Imagem do WhatsApp de 2025-02-10 à(s) 10.41.00_fa6d8b00.jpg",
-    "6 - Anotacoes/Pasted image 20250210102836.png",
-    "1 - Rascunhos/Matérias/Geometria Analítica/Prova por indução.md",
-    "1 - Rascunhos/Matérias/Aprendizado de máquina/Geral.md",
-    "1 - Rascunhos/Matérias/Geometria Analítica",
-    "2 - Material de referencia/Aprendizado de máquina/Base.md",
+    "Atividades/Metas.md",
+    "Atividades/Atividades.md",
+    "2 - Material de referencia/Aprendendo a aprender.md",
+    "2 - Material de referencia/Anotações.md",
+    "2 - Material de referencia/Produtividade.md",
+    "1 - Rascunhos/Untitled 1.md",
+    "2 - Material de referencia/Rotina.md",
+    "1 - Rascunhos/Untitled.md",
+    "Atividades/Prova P&E.md",
+    "Prova P&E.pdf",
+    "Assets/Pasted image 20250226125533.png",
+    "Assets/Pasted image 20250226125514.png",
+    "Assets/Pasted image 20250226125331.png",
+    "Assets/Pasted image 20250226124254.png",
+    "Assets/Pasted image 20250226124223.png",
+    "Assets/Pasted image 20250226124047.png",
+    "Assets/Pasted image 20250226124021.png",
+    "Assets/Pasted image 20250226123841.png",
+    "1 - Rascunhos/Matérias/Aprendizado de máquina/Untitled.md",
+    "Atividades/Edge Academy/Entrevistas.md",
+    "Atividades/Edge Academy/Questoes.md",
+    "Atividades/Prova Redes📅 2025-02-26.md",
+    "Atividades/Estudar ML.md",
+    "Atividades/Estudar PDI.md",
+    "Atividades/Atividade PDI 📅 2025-02-12.md",
     "1 - Rascunhos/Matérias/Aprendizado de máquina/Sobre a Matéria.md",
-    "Novo(a) Documento de Texto.txt",
-    "Untitled.md",
-    "1 - Rascunhos/Matérias/Processamento de Imagens/Aula 30-01.md",
-    "2 - Material de referencia/Processamento de Imagens/Machine Learning An Artificial Intelligence Approach ( etc.) (Z-Library).pdf",
-    "2 - Material de referencia/Geometria Analitica/2_[Elon Lages Lima]_Geometria Analitica e Algebra Linear.pdf",
-    "2 - Material de referencia/2_[Elon Lages Lima]_Geometria Analitica e Algebra Linear.pdf",
-    "2 - Material de referencia/Machine Learning An Artificial Intelligence Approach ( etc.) (Z-Library).pdf",
-    "Machine Learning An Artificial Intelligence Approach ( etc.) (Z-Library).pdf",
-    "6 - Anotacoes/Pasted image 20250203103941.png",
-    "6 - Anotacoes/Pasted image 20250203103801.png",
-    "6 - Anotacoes/Pasted image 20250203103652.png",
-    "8 - Code Snippets/Unity/Programando movimento simples para jogos 2d top-down na unity.md",
-    "8 - Code Snippets/Golang/Criando middlewares e envolvendo-os em Handlers.md",
-    "2 - Material de referencia/Aprendizado de máquina/Base 1.md",
-    "TODO.md",
-    "1 - Rascunhos/Ruby Anotacoes.md",
-    "Atividades/2025/Fevereiro.md",
-    "1 - Rascunhos/Texto apresentacao lua.md",
-    "1 - Rascunhos/Ideias para Rise of the shadow Mancer.md",
-    "1 - Rascunhos/1723497216-NXQU.md",
-    "1 - Rascunhos/1723497180-XHZT.md",
-    "1 - Rascunhos/1723496828-QOOE.md",
-    "1 - Rascunhos/1723496394-KOHR.md",
-    "5 - Template/Template diário.md",
-    "Untitled.canvas",
-    "zettelkasten/Assets/Pasted image 20240813121645.png"
+    "1 - Rascunhos/Matérias/Aprendizado de máquina/Geral.md",
+    "1 - Rascunhos/Matérias/Aprendizado de máquina/Avaliação de Classificadores.md",
+    "3 - Tags/Banco de Dados.md",
+    "3 - Tags/Padrões.md",
+    "3 - Tags/Probabilidade e Estatística.md",
+    "3 - Tags/Processamento de Imagens.md",
+    "3 - Tags/Git.md",
+    "3 - Tags/Game Development.md",
+    "3 - Tags/Definições.md",
+    "2 - Material de referencia/Matemática Discreta e Suas Aplicações ( PDFDrive ).pdf",
+    "2 - Material de referencia/Aprendizado de máquina/Machine Learning (Tom M. Mitchell) (Z-Library).pdf",
+    "Diário/Acompanhamentos",
+    "8 - Code Snippets/R",
+    "8 - Code Snippets/Git",
+    "Atividades/Edge Academy",
+    "Assets/Imagem do WhatsApp de 2025-02-10 à(s) 10.41.00_fa6d8b00.jpg",
+    "Assets/Imagem do WhatsApp de 2025-02-17 à(s) 10.58.25_11524177.jpg",
+    "Excalidraw",
+    "Atividades/2024.2/Redes de Computador",
+    "2 - Material de referencia/Probabilidade e Estatística/Using R For Introductory Statistics (Second Edition) (John Verzani) (Z-Library).pdf",
+    "Untitled.canvas"
   ]
 }

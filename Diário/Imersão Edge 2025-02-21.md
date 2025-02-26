@@ -1,0 +1,63 @@
+- Ajudar marty macfly
+	- 4 periodo - Engenharia - fluxo padrão
+	- PIBIC
+	- academy
+	- liga academica
+	- POBRE
+- o que vamos fazer
+	- determinar atividades academicas dele
+	- selecionar disciplinas e tarefas principais
+	- Alocar blocos de tempo
+		- Atribuindo horários específicos para cada atividade
+	- Incluir atividades Extracurriculares
+		- integrando atividades não acadêmicas no cronograma
+			- 20 horas academy
+			- 5 horas de pibic
+			- 5 horas de liga acadêmca
+- Gestão de Tarefas e técnicas de gestão do tempo 
+	- Revisar e ajustar o horário
+		- Garantindo que o cronograma seja equilibrado e viável
+	- identificar tarefas diárias
+		- listar todas as tarefas diárias a serem realizadas
+	- Aplicar a matriz de eisenhower
+		- Usar a matriz para priorizar tarefas com base na urgência e importância
+	- Pesquisar T~ecnicas de Gestão do Tempo
+		- Encontrar uma nova técnica de gestão do tempo que não tenha sido usada antes
+	- Compartilhar Descobertas
+		- Apresentar a nova técnica de gestão do tempo ao grupo
+
+- ferramentas
+	- Tick Tick
+	- Notion
+	- Google Calendar
+
+# Solução
+- Organizamos a Roda da vida
+-  Definimos que ele quer se manter no fluxo padrão
+- Na seleção de atividades
+	- Trancamos PAA 
+		- para ter menos matérias e se manter no fluxo padrão pois necessita de muito tempo
+	- Extracurriculares removidas
+		- PIBIC
+			- Não é uma prioridade agora
+		- Liga acadêmica
+			- Não é uma prioridade agora
+		- Edge Academy não foi removido por ser uma atividade rentavel e que estimula o desenvolvimento profissional e academico
+	- Ferramentas selecionada
+		- google calendar
+			- Por ser mais simples e ter mais familiaridade
+	- Tarefas Diárias
+		- Se preparar e ir para a ufal(5:30-7:20)
+			- Tempo para se preparar para ir para a ufal
+		- Ir para aula (7:30-12:50)
+			- Tempo das aulas(4º perido EC)
+		- Faz esporte na ufal (14:00-15:30) segunda e quarta
+			- Precisa se exercita para cuidar da saúde e melhor 
+			- Depois de uma rotina de exercício físico ele vai começar a ficar mais disposto para realizar as atividades diárias
+		- Imersão no dia da imersão(14:00-17:00) sexta
+		- Estudar no Edge
+			- Para Alcançar as 20 horas semanais
+			- (16-19)segunda e quarta 
+			- (14-19) Terça e Quinta
+		- Voltar para casa(19-20)
+		- Dormir(22:00)

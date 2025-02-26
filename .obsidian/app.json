@@ -1,6 +1,16 @@
 {
   "vimMode": true,
   "newLinkFormat": "shortest",
-  "attachmentFolderPath": "./",
-  "showLineNumber": true
+  "attachmentFolderPath": "Assets",
+  "showLineNumber": true,
+  "newFileLocation": "folder",
+  "alwaysUpdateLinks": true,
+  "newFileFolderPath": "1 - Rascunhos",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
