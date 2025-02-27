@@ -1,4 +1,6 @@
+## Criação de hábitos
 [How to be so productive that it feels illegal](https://www.youtube.com/watch?v=4FXScrmYKQ0)
+[The science of making and breaking habits](https://www.youtube.com/watch?v=Wcs2PFz5q6g)
 ## Organização
 [4 ways to organize school](https://www.youtube.com/watch?v=RMB3NsQotvM)
 [how i stay organized in college](https://www.youtube.com/watch?v=zmaBGE-E6Dc)

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Material de referencia/Aprendendo a aprender.md",
+                "file": "2 - Material de referencia/Produtividade.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aprendendo a aprender"
+              "title": "Produtividade"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Material de referencia/Aprendendo a aprender.md",
+                "file": "2 - Material de referencia/Produtividade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Aprendendo a aprender"
+              "title": "Outgoing links from Produtividade"
             }
           },
           {
@@ -145,6 +145,21 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "ab790bc97209a9cb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2 - Material de referencia/Produtividade.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Produtividade"
+            }
           }
         ],
         "currentTab": 3
@@ -168,13 +183,15 @@
   },
   "active": "9a00693094a86fb6",
   "lastOpenFiles": [
+    "TODO.md",
+    "2 - Material de referencia/Digital Zettelkasten Principles, Methods, Examples (David Kadavy) (Z-Library).pdf",
+    "2 - Material de referencia/How to Take Smart Notes, 2nd Edition One Simple Technique to Boost Writing, Learning, and Thinking (Sönke Ahrens) (Z-Library).pdf",
+    "2 - Material de referencia/Aprendendo a aprender.md",
     "2 - Material de referencia/Matemática Discreta e Suas Aplicações ( PDFDrive ).pdf",
     "2 - Material de referencia/Produtividade.md",
     "1 - Rascunhos/Untitled.md",
-    "TODO.md",
     "Atividades/Metas.md",
     "Atividades/Atividades.md",
-    "2 - Material de referencia/Aprendendo a aprender.md",
     "2 - Material de referencia/Anotações.md",
     "1 - Rascunhos/Untitled 1.md",
     "2 - Material de referencia/Rotina.md",
@@ -211,8 +228,6 @@
     "Assets/Imagem do WhatsApp de 2025-02-10 à(s) 10.41.00_fa6d8b00.jpg",
     "Assets/Imagem do WhatsApp de 2025-02-17 à(s) 10.58.25_11524177.jpg",
     "Excalidraw",
-    "Atividades/2024.2/Redes de Computador",
-    "2 - Material de referencia/Probabilidade e Estatística/Using R For Introductory Statistics (Second Edition) (John Verzani) (Z-Library).pdf",
     "Untitled.canvas"
   ]
 }

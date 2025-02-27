@@ -7,3 +7,4 @@
 - Kanban para metas pessoais
 - Assistir os videos linkados nos materiais de referência e fazer anotações
 - Preencher o kanban de metas
+	- Criar card dos livros how to take smart notes e digital zettelkasten
